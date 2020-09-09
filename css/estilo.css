@@ -2,6 +2,7 @@
 	width: 8em;
 	margin-top: 400px;
 	margin-left: 100px;
+	
 }
 
 #casa {
@@ -9,10 +10,21 @@
 	position: absolute;
 	top: 300px;
 	left: 900px;
+	
+	
+}
+
+body {
+	background-color: azure;
+}
+img {
+	border: 2px solid red;
 }
 
 #campo {
 	width: 4em;
 	display: block;
 	margin-top: 2em;
+	background-color:#ccc;
+
 }
